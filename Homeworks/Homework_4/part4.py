@@ -1,0 +1,83 @@
+
+
+
+
+text = input("შეიყვანეთ ტექსტი: ").lower()
+
+vowels = "aeiou"
+
+print("მხოლოდ თანხმოვნები: ", end="")
+
+for words in text:
+    if words in vowels:
+        continue
+
+    print(words, end="")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
