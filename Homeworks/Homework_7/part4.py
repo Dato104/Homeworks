@@ -1,0 +1,133 @@
+
+
+
+
+films1 = {"Inception", "Interstellar", "Joker", "The Matrix", "Dune", "Oppenheimer"}
+films2 = {"Joker", "The Matrix", "Parasite", "Interstellar", "The Shawshank Redemption", "Dune"}
+
+
+
+
+def compare(a, b):
+
+    common = a.intersection(b)
+    print(common)
+    only_first = a.difference(b)
+    print(only_first)
+    only_second = b.difference(a)
+    print(only_second)
+    union_objects = a.union(b)
+    return union_objects
+
+print(compare(films1, films2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
