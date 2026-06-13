@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "animal farm",
+    "author": "george orwell",
+    "year": 1945,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "ok",
+    "author": "ok",
+    "year": 2,
+    "available": true
+  }
+]
