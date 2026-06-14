@@ -1,0 +1,5 @@
+[
+  { "name": "Khachapuri",  "cuisine": "Georgian", "time_minutes": "30" },
+  { "name": "Khinkali",    "cuisine": "Georgian", "time_minutes": "60" },
+  { "name": "Mtsvadi",     "cuisine": "Georgian", "time_minutes": "45" }
+]
