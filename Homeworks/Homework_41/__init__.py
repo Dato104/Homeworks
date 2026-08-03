@@ -1,0 +1,1 @@
+from models.trips import Base
